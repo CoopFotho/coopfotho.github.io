@@ -26,9 +26,3 @@ p {
     color: rgb(255, 255, 255);
     text-align: center;
 }
-
-#profile-picture {
-    width: 200px; /* Set the width to 100 pixels */
-    height: auto; /* Maintain the aspect ratio */
-    border-radius: 10%; /* Make the image round */
-}
